@@ -282,4 +282,7 @@ body{
     .trend{
         margin-bottom: 20px;
     }
+    .profile p{
+        display: none;
+    }
 }
